@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: README
 ---
@@ -55,3 +56,6 @@ You'll need to add this to the ```<head>``` of your CMS index page at /admin/ind
 ```
 
 > Now you can control site content in https://yoursite.netlify.com/admin/
+=======
+# vuepress-docs
+>>>>>>> 15a85aa6677a544114c7b8de1b37750425e96d3a
